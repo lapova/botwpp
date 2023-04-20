@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/1545acbb-491d-4822-a1a5-72451cc1dbb6/AppServices/subscriptions/1545acbb-491d-4822-a1a5-72451cc1dbb6/resourceGroups/chatbotrg/providers/Microsoft.Web/sites/apiBot2",
+    "appService.deploySubpath": "."
+}

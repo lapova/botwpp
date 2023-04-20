@@ -5,8 +5,11 @@ El aplicativo tiene como finalidad realizar procesos automáticos de flujos de t
 -Requisitos previos En esta sección se explican las herramientas empleadas para el desarrollo del proyecto:
 
 1.Node js, la versión usada para el desarrollo es la 16.14.2 LTS.
+
 2.Editor de código, se empleó Visual Studio Code
+
 3.Base de datos, SQL Server
+
 4.WhatsApp Cloud API para lograr la conexión a WhatsApp.
 
 -Módulos de node implementados para realizar las automatizaciones

@@ -32,8 +32,8 @@ El aplicativo tiene como finalidad realizar procesos automáticos de flujos de t
 
 -Descarga y configuración del chatbot
 
-Clonar el repositorio en tu pc, instalar Visual Studio Code o el editor de código de tu preferencia, abrir visual studio code y arrastrar la carpeta donde está ubicado el proyecto que acabas de descargar, para poder visualizar los archivos que contiene.
+Clonar el repositorio en tu pc, instalar Visual Studio Code o el editor de código de tu preferencia, abrir visual studio code y arrastrar la carpeta donde está ubicado el proyecto que acabas de descargar para poder visualizar los archivos que contiene.
 
-Abrir la terminal desde Visual Studio Code mediante el comando ctrl + shift + ñ y ejecutar el siguiente comando para instalar los módulos correspondientes para el funcionamiento del proyecto:
+Abrir la terminal desde Visual Studio Code mediante (ctrl + shift + ñ) y ejecutar el siguiente comando para instalar los módulos correspondientes para el funcionamiento del proyecto:
 
 npm install express fs mssql path pizzip @pdftron/pdfnet-node nodemailer docxtemplater

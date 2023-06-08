@@ -1,4 +1,4 @@
-# Chatbot Gestión
+# Chatbot Gestión.
 
 El aplicativo tiene como finalidad realizar procesos automáticos de flujos de trabajo como: envío de certificados de nómina, laboral o cualquier tipo de documento desde que se tenga una plantilla en formato docx: dentro establecer los datos a reemplazar, se realiza una extracción de datos desde SQL y se modifica la plantilla, luego se convierte el archivo a pdf y por último se envía a un correo, todo esto a través de la plataforma de WhatsApp.
 
